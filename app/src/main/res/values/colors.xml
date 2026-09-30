@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="santa_red">#D9251C</color>
+    <color name="santa_blue">#29166F</color>
+</resources>
